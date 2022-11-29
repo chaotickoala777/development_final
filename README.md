@@ -50,7 +50,7 @@ total funding).
 
 ### How the User Triggers State Changes
 Everytime the user clicks a button or radio button, state changes are triggered.
-There are multiple states that I used in this project. I have a filter for:
+There are multiple states that I used in this project. I have a state for:
 1. the accumulator - 
 This state is triggered when the user clicks the reset accumulator button and
 also when in support or opposed are selected. 
