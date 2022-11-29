@@ -5,7 +5,7 @@ https://chaotickoala777.github.io/development_final/
 
 ### Goal and Value of the Application
 The goal of this application is to track votes and link support for a policy/bill
-to the amoount of money politicians earn from lobbysists. The main reasoning for
+to the amount of money politicians earn from lobbysists. The main reasoning for
 this is so that constituents can understand the different/possibly conflicting interests
 that may be in play when politicians, who should be properly representing their
 constituents, vote. This would then create accountability and force transparency. 
