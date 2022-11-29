@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.filter {
+  float: left;
+  margin: 20px;
+  height: 2080px;
+}
+
+.people {
+  justify-content: flex-end;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
