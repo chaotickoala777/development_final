@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Rep. Nancy Pelosi",
+      "title": "Speaker of the House of Representatives",
+      "legislativebody": "House of Representatives",
+      "age": 82,
+      "party": "Democrat",
+      "lobby": 154236,
+      "image": "images/nancy.jpg"
+    },
+    {
+      "name": "Rep. Kevin McCarthy",
+      "title": "Republican Leader",
+      "legislativebody": "House of Representatives",
+      "age": 57,
+      "party": "Republican",
+      "lobby": 524415,
+      "image": "images/kevin.jpeg"
+    },
+    {
+      "name": "Rep. Steny Hoyer",
+      "title": "Majority Leader",
+      "legislativebody": "House of Representatives",
+      "age": 83,
+      "party": "Democrat",
+      "lobby": 162700,
+      "image": "images/steny.jpeg"
+    },
+    {
+      "name": "Rep. Steve Scalise",
+      "title": "Republican Whip",
+      "legislativebody": "House of Representatives",
+      "age": 57,
+      "party": "Republican",
+      "lobby": 250161,
+      "image": "images/steve.jpeg"
+    },
+    {
+      "name": "Rep. Katherine Clark",
+      "title": "Assistant Speaker",
+      "legislativebody": "House of Representatives",
+      "age": 59,
+      "party": "Democrat",
+      "lobby": 112135,
+      "image": "images/clark.jpeg"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "title": "Republican Conference Chairman",
+      "legislativebody": "House of Representatives",
+      "age": 38,
+      "party": "Republican",
+      "lobby": 94287,
+      "image": "images/stef.jpg"
+    },
+    {
+      "name": "Rep. Hakeem Jeffries",
+      "title": "Democratic Caucus Chairman",
+      "legislativebody": "House of Representatives",
+      "age": 52,
+      "party": "Democrat",
+      "lobby": 141134,
+      "image": "images/jeff.jpeg"
+    },
+    {
+      "name": "Rep. Gary Palmer",
+      "title": "Republican Policy Committee Chairman",
+      "legislativebody": "House of Representatives",
+      "age": 68,
+      "party": "Republican",
+      "lobby": 401837,
+      "image": "images/palm.jpeg"
+    },
+    {
+      "name": "Sen. Chuck Schumer",
+      "title": "Democratic Leader",
+      "legislativebody": "Senate",
+      "age": 72,
+      "party": "Democrat",
+      "lobby": 119263,
+      "image": "images/chuck.jpeg"
+    },
+    {
+      "name": "Sen. Mitchell McConnell",
+      "title": "Republican Leader",
+      "legislativebody": "Senate",
+      "age": 80,
+      "party": "Republican",
+      "lobby": 537604,
+      "image": "images/mitch.jpeg"
+    },
+    {
+      "name": "Sen. Patty Murray",
+      "title": "Assistant Democratic Leader",
+      "legislativebody": "Senate",
+      "age": 72,
+      "party": "Democrat",
+      "lobby": 347486,
+      "image": "images/pat.jpeg"
+    },
+    {
+      "name": "Sen. Elizabeth Warren",
+      "title": "Vice Chair of Conference",
+      "legislativebody": "Senate",
+      "age": 73,
+      "party": "Democrat",
+      "lobby": 95000,
+      "image": "images/warren.jpeg"
+    }
+  ]
+  

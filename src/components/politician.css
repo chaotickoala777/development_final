@@ -1,0 +1,10 @@
+.border {
+    background-color: #E6E6E6 ;
+    padding: 20px;
+    width: 310px;
+    height: 540px;
+    margin: 10px;
+    float: left;
+    justify-content: flex-end;
+    border-radius: 25px;
+}
