@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-https://chaotickoala777.github.io/development/
+https://chaotickoala777.github.io/development_final/
 
 ### Goal and Value of the Application
 The goal of this application is to track votes and link support for a policy/bill
