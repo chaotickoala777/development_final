@@ -51,24 +51,24 @@ total funding).
 ### How the User Triggers State Changes
 Everytime the user clicks a button or radio button, state changes are triggered.
 There are multiple states that I used in this project. I have a filter for:
-1. the accumulator
+1. the accumulator - 
 This state is triggered when the user clicks the reset accumulator button and
 also when in support or opposed are selected. 
 
-2. the filtered data to display
+2. the filtered data to display - 
 setFilter is called by useEffect, which is triggered when the party, chamber, 
 or sort states are changed. This is done so that the filtered data is updated
 whenever the filter or sorting is enabled/changed.
 
-3. the number of votes
+3. the number of votes - 
 This state is triggered when the user clicks the reset accumulator button and
 also when in support or opposed are selected. 
 
-4. the total funding
+4. the total funding - 
 This state is triggered when the user clicks the reset accumulator button and
 also when in support or opposed are selected. 
 
-5. the party filter, the chamber of Congress filter, and age sort
+5. the party filter, the chamber of Congress filter, and age sort - 
 These states are triggered whenever one of the Party, legislative body, and/or age sort 
 radio buttons is selected. This changes what we use to filter (and also triggers 
 useEffect). I do this to ensure that the different filters and sorting can work 
